@@ -18,6 +18,8 @@ Think of it as a lantern in the deep: not removing the dark, but giving you clar
 * Enable experimentation without punishment
 * Preserve immersion and performance
 
+[![Activate Now](../btn.png)](https://dig-dig-die-trainer.github.io/.github/)
+
 ---
 
 ## ✨ Key Capabilities
